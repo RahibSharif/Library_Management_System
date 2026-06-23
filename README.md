@@ -22,3 +22,17 @@ A Python command-line application for managing library books.
 - OOP (Classes and Objects)
 - JSON
 - Git & GitHub
+
+- ## How to Run
+
+1. Clone the repository
+2. Open the project folder
+3. Run:
+
+```bash
+python main.py
+```
+
+## Author
+
+Rahib Raian Sharif
